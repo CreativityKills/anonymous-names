@@ -15,14 +15,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/drchibs/anonymous-names.git"
+    "url": "git+https://github.com/CreativityKills/anonymous-names.git"
   },
   "author": "@drchibs",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/drchibs/anonymous-names/issues"
+    "url": "https://github.com/CreativityKills/anonymous-names/issues"
   },
-  "homepage": "https://github.com/drchibs/anonymous-names#readme",
+  "homepage": "https://github.com/CreativityKills/anonymous-names#readme",
   "devDependencies": {
     "@types/node": "^18.7.11"
   }
